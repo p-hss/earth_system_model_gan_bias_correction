@@ -2,9 +2,8 @@
 
 
 ## Description
-This repository contains the code for the study:
+This repository contains the code for the training a cycle consistent generative adversarial network on Earth system model output data for bias correction. 
 
-   **Physically Constrained Generative Adversarial Networks for Improving Earth System Model Precipitation Output** (Link).
 
 
 ## Requirements
