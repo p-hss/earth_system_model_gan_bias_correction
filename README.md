@@ -1,4 +1,4 @@
-# Physically Constrained Generative Adversarial Networks for Improving Earth System Model Precipitation Output
+# Generative Adversarial Networks for Improving Earth System Model Precipitation
 
 
 ## Description
