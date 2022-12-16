@@ -8,6 +8,7 @@ lightning_logs/
 .vscode
 notebooks/.ipynb_checkpoints/
 src/.ipynb_checkpoints/
+src/__pycache__
 *.sif
 *.html
 *.loc
